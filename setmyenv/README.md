@@ -5,4 +5,4 @@ To run the setup script, execute:
 `bash startup.sh`
 
 Once completed, run:
-`source $HOME/.bashrc`
+`source ~/.bashrc`
