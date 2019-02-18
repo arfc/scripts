@@ -1,4 +1,4 @@
-conda_url='https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh'
+conda_url='https://repo.anaconda.com/archive/Anaconda3-2018.12-Linux-x86_64.sh'
 
 echo "Update Bashrc? (Append conda path, parse git branch, alias, etc.)"
 select bashrc in "Yes" "No"; do
